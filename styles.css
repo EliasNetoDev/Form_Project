@@ -99,6 +99,7 @@ fieldset:last-of-type{
 input[type="submit"]{
    display: block;
    max-width: 300px;
+   min-width: 300px;
    padding: 10px 0;
    margin: 15px auto;
    background-color: var(--color-green);
